@@ -5,7 +5,6 @@ export const backendUrl = `${import.meta.env.VITE_URL || 'https://regie-cam-back
 export const updateAdmin = baseUrl + "updateadmi";
 export const disconnectAdmin = baseUrl + "disconnect";
 
-
 // Camera
 export const createcam = baseUrl + "createcam";
 export const getallcam = baseUrl + "getallcam";
